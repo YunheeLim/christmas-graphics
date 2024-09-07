@@ -67,7 +67,7 @@ git clone https://github.com/YunheeLim/christmas-graphics.git
 ![snowman](img/screenshots/image3.png)
 
 ### [Reindeer]
-- This reindeer object is imported by sketchfab.
+- This reindeer object is imported by <a href="https://sketchfab.com/">sketchfab</a>.
 - The deer moves its neck up and down.
 ![reindeer](img/screenshots/image5.png)
 
