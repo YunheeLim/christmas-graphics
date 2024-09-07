@@ -1,5 +1,6 @@
 # Christmas-themed 3D animation
 ![main](img/screenshots/image-1.png)
+https://yunheelim.github.io/christmas-graphics/
 ## About
 - This is the final project for Graphics and Visualization course at Vytautas Magnus University (VMU) in Lithuania.
 - This project is made with Three.js which is a JavaScript library that renders 3D objects on the website
